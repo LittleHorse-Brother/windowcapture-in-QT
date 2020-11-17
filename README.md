@@ -1,0 +1,1 @@
+# windowcapture-in-QT
